@@ -71,12 +71,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036340" fileID="0" hue="-1" id="0" lockedInTime="false" looped="false" name="guit" offline="false" select="true" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111950" zOrder="7">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036193" fileID="0" hue="-1" id="0" lockedInTime="false" looped="false" name="guit" offline="false" select="false" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111803" zOrder="9">
           <component componentGuid="74ed9b52-485c-408e-80d1-0b9ddc1c3992" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="d06b5302-b496-4ac9-b12d-6abe2832aa00" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="ec31bb07-5a0f-4ac2-8c56-4410fd9cace2" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -157,12 +157,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036340" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="dset" offline="false" select="true" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111950" zOrder="7">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036193" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="dset" offline="false" select="false" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111803" zOrder="9">
           <component componentGuid="b1c62d38-df87-4ab5-b70b-d34da41e474e" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="bd56105a-3d5a-4c01-9382-d92093fd27d0" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6678cf9d-67d0-4f64-9c47-339c7f324a09" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -243,12 +243,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036340" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="voc" offline="false" select="true" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111950" zOrder="7">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036193" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="voc" offline="false" select="false" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111803" zOrder="9">
           <component componentGuid="51035e96-140f-44eb-8d61-6b319467c9a6" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="6418bd6d-4cd2-41d0-8df7-d3eb23ea87e9" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="2aa718aa-84fb-4982-a30c-304adcee7f71" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -329,12 +329,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036340" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="bass" offline="false" select="true" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111950" zOrder="7">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036193" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="bass" offline="false" select="false" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111803" zOrder="9">
           <component componentGuid="b9482214-6997-4bde-8e5d-e8045412eeb1" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="4490437d-28a3-4da9-a2f7-24dee14d5c15" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="8de330f8-59e2-4961-82e8-bea36dc3b2b1" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -415,12 +415,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036340" fileID="4" hue="-1" id="0" lockedInTime="false" looped="false" name="other" offline="false" select="true" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111950" zOrder="7">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="14036193" fileID="4" hue="-1" id="0" lockedInTime="false" looped="false" name="other" offline="false" select="false" sourceInPoint="0" sourceOutPoint="13924390" startPoint="111803" zOrder="9">
           <component componentGuid="b2ca58da-ba0a-4fa3-80cd-5b471f979fea" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="e6d9cfc2-a640-4709-b964-e6dac176e576" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="47cd8fab-b773-472b-bc08-bf26a334a9bc" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -434,75 +434,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10006" index="6" select="false" visible="true">
-        <trackParameters trackHeight="132" trackHue="92" trackMinimized="false">
-          <name>轨道 6</name>
-        </trackParameters>
-        <trackAudioParameters audioChannelType="mono" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
-          <trackOutput outputID="10000" type="trackID"/>
-          <trackInput inputID="1"/>
-          <component componentGuid="39e6486d-4b88-4306-ac2f-ca504f99eff1" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentGuid="7f83785f-7e52-4a9a-802c-b596756c16e3" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentGuid="abe93e2c-5f82-4691-8afb-5238bcd02db8" componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="声像" parameterValue="0"/>
-          </component>
-          <component componentGuid="65691f4a-5e0d-46df-bf88-d08769c5942e" componentID="Audition.EQ" id="trackEQ" name="EQ" powered="false">
-            <parameter index="0" name="下限频率" parameterValue="0.0009078529546968638896942138671875"/>
-            <parameter index="1" name="下限增益" parameterValue="0.5"/>
-            <parameter index="2" name="上限频率" parameterValue="0.816159784793853759765625"/>
-            <parameter index="3" name="上限频率增益" parameterValue="0.5"/>
-            <parameter index="4" name="EQ 频段 1 中置频率" parameterValue="0.0013617794029414653778076171875"/>
-            <parameter index="5" name="EQ 频段 1 Q" parameterValue="0.000199989997781813144683837890625"/>
-            <parameter index="6" name="EQ 频段 1 增益" parameterValue="0.5"/>
-            <parameter index="7" name="EQ 频段 1 启用" parameterValue="1"/>
-            <parameter index="8" name="EQ 频段 2 中置频率" parameterValue="0.008170676417648792266845703125"/>
-            <parameter index="9" name="EQ 频段 2 Q" parameterValue="0.000199989997781813144683837890625"/>
-            <parameter index="10" name="EQ 频段 2 增益" parameterValue="0.5"/>
-            <parameter index="11" name="EQ 频段 2 启用" parameterValue="1"/>
-            <parameter index="12" name="EQ 频段 3 中置频率" parameterValue="0.0354062654078006744384765625"/>
-            <parameter index="13" name="EQ 频段 3 Q" parameterValue="0.000199989997781813144683837890625"/>
-            <parameter index="14" name="EQ 频段 3 增益" parameterValue="0.5"/>
-            <parameter index="15" name="EQ 频段 3 启用" parameterValue="1"/>
-            <parameter index="16" name="EQ 频段 4 中置频率" parameterValue="0.144348621368408203125"/>
-            <parameter index="17" name="EQ 频段 4 Q" parameterValue="0.000199989997781813144683837890625"/>
-            <parameter index="18" name="EQ 频段 4 增益" parameterValue="0.5"/>
-            <parameter index="19" name="EQ 频段 4 启用" parameterValue="1"/>
-            <parameter index="20" name="EQ 频段 5 中置频率" parameterValue="0.580118000507354736328125"/>
-            <parameter index="21" name="EQ 频段 5 Q" parameterValue="0.000199989997781813144683837890625"/>
-            <parameter index="22" name="EQ 频段 5 增益" parameterValue="0.5"/>
-            <parameter index="23" name="EQ 频段 5 启用" parameterValue="1"/>
-            <parameter index="24" name="增益" parameterValue="0.666666686534881591796875"/>
-            <parameter index="25" name="恒定 Q" parameterValue="1"/>
-            <parameter index="26" name="下限滤镜顺序" parameterValue="0"/>
-            <parameter index="27" name="上限频率滤镜顺序" parameterValue="0"/>
-            <parameter index="28" name="超静音模式" parameterValue="0"/>
-            <parameter index="29" name="下限启用" parameterValue="1"/>
-            <parameter index="30" name="上限频率启用" parameterValue="1"/>
-            <parameter index="31" name="原始采样率" parameterValue="0.22968749701976776123046875"/>
-            <parameter index="32" name="EQ 频段 1 频带宽" parameterValue="0.002499990165233612060546875"/>
-            <parameter index="33" name="EQ 频段 2 频段宽度" parameterValue="0.0099999904632568359375"/>
-            <parameter index="34" name="EQ 频段 3 频段宽度" parameterValue="0.0399999916553497314453125"/>
-            <parameter index="35" name="EQ 频段 4 频段宽度" parameterValue="0.15999998152256011962890625"/>
-            <parameter index="36" name="EQ 频段 5 频段宽度" parameterValue="0.63999998569488525390625"/>
-            <parameter index="37" name="高通滤波启用" parameterValue="0"/>
-            <parameter index="38" name="高通切除频率" parameterValue="0"/>
-            <parameter index="39" name="高通斜率" parameterValue="0.4000000059604644775390625"/>
-            <parameter index="40" name="低通滤波启用" parameterValue="0"/>
-            <parameter index="41" name="低通切除频率" parameterValue="0.906945049762725830078125"/>
-            <parameter index="42" name="低通斜率" parameterValue="0.4000000059604644775390625"/>
-            <parameter index="43" name="不使用" parameterValue="0"/>
-            <parameter index="44" name="下限图示范围" parameterValue="1"/>
-          </component>
-        </trackAudioParameters>
-        <editParameter parameterIndex="0" slotIndex="4294967280"/>
-      </audioTrack>
-      <masterTrack automationLaneOpenState="false" id="10000" index="7" select="false" visible="true">
+      <masterTrack automationLaneOpenState="false" id="10000" index="6" select="false" visible="true">
         <trackParameters trackHeight="132" trackHue="-1" trackMinimized="false">
           <name>混合</name>
         </trackParameters>
@@ -571,9 +503,9 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="174423" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="174423"/>
-      <viewState horizontalViewDuration="262566" horizontalViewStart="68418" trackControlsWidth="224" verticalScrollOffset="0"/>
+    <sessionState ctiPosition="4289257" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="4289257"/>
+      <viewState horizontalViewDuration="14228605" horizontalViewStart="0" trackControlsWidth="224" verticalScrollOffset="0"/>
       <timeFormatState beatsPerBar="4" beatsPerMinute="121.3599999999999994315658113919198513031005859375" customFrameRate="60" linkToDefaultTimeSettings="false" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatBarsAndBeats"/>
       <mixingOptionState defaultPanModeLogarithmic="false" panPower="-3" playOverlappingClips="false"/>
     </sessionState>
@@ -589,10 +521,10 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 24.4 (Windows)</xmp:CreatorTool>
          <xmp:CreateDate>2024-09-09T19:02:55+08:00</xmp:CreateDate>
-         <xmp:MetadataDate>2024-09-18T18:44:16+08:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2024-09-18T18:44:16+08:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:78772a54-ba2b-3942-8f82-1abf25dab325</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:78772a54-ba2b-3942-8f82-1abf25dab325</xmpMM:DocumentID>
+         <xmp:MetadataDate>2024-09-25T19:51:39+08:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2024-09-25T19:51:39+08:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:39001014-3f77-124c-8d13-5bfe902cd8df</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:39001014-3f77-124c-8d13-5bfe902cd8df</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:9e06c9bf-ebdb-da42-bf8a-af47aae65001</xmpMM:OriginalDocumentID>
          <xmpMM:History>
             <rdf:Seq>
@@ -703,22 +635,64 @@
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:59c8bf59-d5b8-0a42-82de-bab9ced1103c</stEvt:instanceID>
-                  <stEvt:when>2024-09-18T18:44:16+08:00</stEvt:when>
+                  <stEvt:instanceID>xmp.iid:291f123e-e4a5-9f4d-828d-42c2edaa8949</stEvt:instanceID>
+                  <stEvt:when>2024-09-18T18:44:55+08:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 24.4 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/metadata</stEvt:changed>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <stEvt:action>saved</stEvt:action>
-                  <stEvt:instanceID>xmp.iid:78772a54-ba2b-3942-8f82-1abf25dab325</stEvt:instanceID>
-                  <stEvt:when>2024-09-18T18:44:16+08:00</stEvt:when>
+                  <stEvt:instanceID>xmp.iid:d45eba26-83a8-7345-9e0a-0e1ea8470eec</stEvt:instanceID>
+                  <stEvt:when>2024-09-18T18:44:55+08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.4 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:03e96310-7e2e-4348-aae4-57fd4af57412</stEvt:instanceID>
+                  <stEvt:when>2024-09-20T22:50:26+08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.4 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:a4a34303-1a85-cd43-8ae8-3b308341fef9</stEvt:instanceID>
+                  <stEvt:when>2024-09-20T22:50:26+08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.4 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:dae80707-0796-3947-87eb-71ea9fc4f4bf</stEvt:instanceID>
+                  <stEvt:when>2024-09-25T19:48:41+08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.4 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:7ae39db4-3cf1-5a49-bf88-5ad093686a48</stEvt:instanceID>
+                  <stEvt:when>2024-09-25T19:48:41+08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.4 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:cf3d6b66-f122-3440-ab85-1dc6595bd07b</stEvt:instanceID>
+                  <stEvt:when>2024-09-25T19:51:39+08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 24.4 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:39001014-3f77-124c-8d13-5bfe902cd8df</stEvt:instanceID>
+                  <stEvt:when>2024-09-25T19:51:39+08:00</stEvt:when>
                   <stEvt:softwareAgent>Adobe Audition 24.4 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:59c8bf59-d5b8-0a42-82de-bab9ced1103c</stRef:instanceID>
+            <stRef:instanceID>xmp.iid:cf3d6b66-f122-3440-ab85-1dc6595bd07b</stRef:instanceID>
             <stRef:documentID>xmp.did:9e06c9bf-ebdb-da42-bf8a-af47aae65001</stRef:documentID>
             <stRef:originalDocumentID>xmp.did:9e06c9bf-ebdb-da42-bf8a-af47aae65001</stRef:originalDocumentID>
          </xmpMM:DerivedFrom>
@@ -844,11 +818,11 @@
   </session>
 
   <files>
-    <file absolutePath="D:\Media\GitHub\Muraveynik\Audition\已导入文件\guit.wav" id="0" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="79d77a59-f324-406b-bf5a-09db35328f42"/>
-    <file absolutePath="D:\Media\GitHub\Muraveynik\Audition\已导入文件\dset.wav" id="1" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="da00b6d2-463f-46c8-a102-0d06143f5769"/>
-    <file absolutePath="D:\Media\GitHub\Muraveynik\Audition\已导入文件\voc.wav" id="2" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="1ef7926c-e9b2-43f0-8636-1e60281f72c7"/>
-    <file absolutePath="D:\Media\GitHub\Muraveynik\Audition\已导入文件\bass.wav" id="3" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="878e4f09-560d-4fc8-814c-3375362089e1"/>
-    <file absolutePath="D:\Media\GitHub\Muraveynik\Audition\已导入文件\other.wav" id="4" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="21eef99b-3dea-4542-8251-2fcd1931e69a"/>
+    <file absolutePath="\\T14p\d\Media\GitHub\Muraveynik\Audition\已导入文件\guit.wav" id="0" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="89afa25b-d249-448c-a53f-3a8b35130ada"/>
+    <file absolutePath="\\T14p\d\Media\GitHub\Muraveynik\Audition\已导入文件\dset.wav" id="1" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="bd3fa097-fba2-469c-aa7b-dec56af5d162"/>
+    <file absolutePath="\\T14p\d\Media\GitHub\Muraveynik\Audition\已导入文件\voc.wav" id="2" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="b58777cf-8caa-44e7-a323-736b58a30fc9"/>
+    <file absolutePath="\\T14p\d\Media\GitHub\Muraveynik\Audition\已导入文件\bass.wav" id="3" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="1a182db5-63ea-4838-9a9a-cee052bc581a"/>
+    <file absolutePath="\\T14p\d\Media\GitHub\Muraveynik\Audition\已导入文件\other.wav" id="4" importerPrivateSettings="Compression:0:0;LargeFileSupport:0:0;SampleType:0:40;" mediaHandler="AmioWav" recoveryID="cb484ba7-fbf4-4f37-a213-bad594bd2441"/>
   </files>
 
   <audioDevice inputID="22222222-2222-2222-2222-22222222" outputID="11111111-1111-1111-1111-11111111">

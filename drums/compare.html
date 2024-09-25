@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Compare</title>
+</head>
+
+<body>
+	<a href="javascript:void(0);" onclick="change('018')">018</a>
+	<a href="javascript:void(0);" onclick="change('050')">050</a><a href="javascript:void(0);" onclick="change('146')">146</a>
+	<a href="javascript:void(0);" onclick="change('066')">066</a>
+	<a href="javascript:void(0);" onclick="change('082')">082</a>
+	<a href="javascript:void(0);" onclick="change('098')">098</a><a href="javascript:void(0);" onclick="change('138')">138</a>
+	<a href="javascript:void(0);" onclick="change('106')">106</a>
+	<a href="javascript:void(0);" onclick="change('113')">113</a><a href="javascript:void(0);" onclick="change('153')">153</a>
+	<a href="javascript:void(0);" onclick="change('114')">114</a><a href="javascript:void(0);" onclick="change('154')">154</a>
+	<a href="javascript:void(0);" onclick="change('122')">122</a>
+	<a href="javascript:void(0);" onclick="change('130')">130</a>
+	<br>
+	<img class="img img018" src="./018.png">
+	<img class="img img050" src="./050.png">
+	<img class="img img066" src="./066.png">
+	<img class="img img082" src="./082.png">
+	<img class="img img098" src="./098.png">
+	<img class="img img106" src="./106.png">
+	<img class="img img113" src="./113.png">
+	<img class="img img114" src="./114.png">
+	<img class="img img122" src="./122.png">
+	<img class="img img130" src="./130.png">
+	<img class="img img138" src="./138.png">
+	<img class="img img146" src="./146.png">
+	<img class="img img153" src="./153.png">
+	<img class="img img154" src="./154.png">
+	<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.7.1.min.js"></script>
+	<script>
+		$('img').hide()
+		const change = id => {
+			$('.img').hide()
+			$(`.img${id}`).show()
+		}
+	</script>
+</body>
+
+</html>
